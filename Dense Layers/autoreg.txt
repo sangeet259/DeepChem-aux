@@ -1,0 +1,585 @@
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+[WARNING] [2018-08-19 10:00:41,929:AutoMLSMBO(1)::7e8a879b95ed36cb6cfdcb495a9de627] Could not find meta-data directory /home/avijit/venv/lib/python3.5/site-packages/autosklearn/metalearning/files/r2_regression_dense
+[WARNING] [2018-08-19 10:00:41,949:EnsembleBuilder(1):7e8a879b95ed36cb6cfdcb495a9de627] No models better than random - using Dummy Classifier!
+[WARNING] [2018-08-19 10:00:41,995:EnsembleBuilder(1):7e8a879b95ed36cb6cfdcb495a9de627] No models better than random - using Dummy Classifier!
+[WARNING] [2018-08-19 10:00:43,998:EnsembleBuilder(1):7e8a879b95ed36cb6cfdcb495a9de627] No models better than random - using Dummy Classifier!
+[WARNING] [2018-08-19 10:00:46,001:EnsembleBuilder(1):7e8a879b95ed36cb6cfdcb495a9de627] No models better than random - using Dummy Classifier!
+[WARNING] [2018-08-19 10:00:48,005:EnsembleBuilder(1):7e8a879b95ed36cb6cfdcb495a9de627] No models better than random - using Dummy Classifier!
+[WARNING] [2018-08-19 10:00:50,008:EnsembleBuilder(1):7e8a879b95ed36cb6cfdcb495a9de627] No models better than random - using Dummy Classifier!
+[WARNING] [2018-08-19 10:00:52,010:EnsembleBuilder(1):7e8a879b95ed36cb6cfdcb495a9de627] No models better than random - using Dummy Classifier!
+[WARNING] [2018-08-19 10:00:54,014:EnsembleBuilder(1):7e8a879b95ed36cb6cfdcb495a9de627] No models better than random - using Dummy Classifier!
+[WARNING] [2018-08-19 10:00:56,017:EnsembleBuilder(1):7e8a879b95ed36cb6cfdcb495a9de627] No models better than random - using Dummy Classifier!
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+[10:15:33] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:15:33] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:15:33] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1
+[10:15:33] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1
+[10:15:33] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1
+[10:15:33] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1
+[10:15:33] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1
+[10:15:33] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1
+[10:15:33] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1
+[10:15:33] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1
+[10:15:33] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1
+[10:15:33] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1
+[10:15:33] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1
+[10:15:33] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+[WARNING] [2018-08-19 10:16:31,680:EnsembleBuilder(1):7e8a879b95ed36cb6cfdcb495a9de627] Memory Exception -- restart with less ensemle_nbest: 25
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+[10:25:20] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1.0078
+[10:25:20] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1.0078
+[10:25:20] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1.0078
+[10:25:20] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1.0078
+[10:25:20] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1.0078
+[10:25:20] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1.0078
+[10:25:20] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1.0078
+[10:25:20] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1.0078
+[10:25:20] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1.0078
+[10:25:20] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1.0078
+[10:25:20] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1.0078
+[10:25:20] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1.0078
+[10:25:20] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1.0078
+[10:25:20] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1.0078
+[10:25:20] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1.0078
+[10:25:20] src/gbm/gbtree.cc:480: drop 1 trees, weight = 1.0078
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+[10:49:04] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:04] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:04] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:04] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+[10:49:05] src/gbm/gbtree.cc:480: drop 0 trees, weight = 1
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+/home/avijit/venv/lib/python3.5/site-packages/autosklearn/evaluation/train_evaluator.py:197: RuntimeWarning: Mean of empty slice
+  Y_train_pred = np.nanmean(Y_train_pred_full, axis=0)
+[(0.280000, SimpleRegressionPipeline({'categorical_encoding:one_hot_encoding:use_minimum_fraction': 'True', 'regressor:__choice__': 'ridge_regression', 'imputation:strategy': 'median', 'categorical_encoding:__choice__': 'one_hot_encoding', 'regressor:ridge_regression:fit_intercept': 'True', 'rescaling:robust_scaler:q_max': 0.7294713204700307, 'regressor:ridge_regression:tol': 0.034965139922794125, 'regressor:ridge_regression:alpha': 0.001160887521619372, 'preprocessor:kernel_pca:kernel': 'rbf', 'preprocessor:kernel_pca:n_components': 577, 'rescaling:robust_scaler:q_min': 0.027120335367284545, 'preprocessor:kernel_pca:gamma': 0.0033015803118506062, 'categorical_encoding:one_hot_encoding:minimum_fraction': 0.09818603236470995, 'preprocessor:__choice__': 'kernel_pca', 'rescaling:__choice__': 'robust_scaler'},
+dataset_properties={
+  'target_type': 'regression',
+  'signed': False,
+  'multilabel': False,
+  'task': 4,
+  'multiclass': False,
+  'sparse': False})),
+(0.220000, SimpleRegressionPipeline({'regressor:libsvm_svr:max_iter': -1, 'categorical_encoding:one_hot_encoding:use_minimum_fraction': 'False', 'regressor:__choice__': 'libsvm_svr', 'imputation:strategy': 'mean', 'categorical_encoding:__choice__': 'one_hot_encoding', 'regressor:libsvm_svr:shrinking': 'False', 'regressor:libsvm_svr:epsilon': 0.0012556289896485154, 'regressor:libsvm_svr:tol': 0.008278229065469687, 'regressor:libsvm_svr:kernel': 'linear', 'regressor:libsvm_svr:C': 0.1717032998338309, 'preprocessor:__choice__': 'no_preprocessing', 'rescaling:__choice__': 'standardize'},
+dataset_properties={
+  'target_type': 'regression',
+  'signed': False,
+  'multilabel': False,
+  'task': 4,
+  'multiclass': False,
+  'sparse': False})),
+(0.140000, SimpleRegressionPipeline({'regressor:random_forest:max_depth': 'None', 'categorical_encoding:one_hot_encoding:use_minimum_fraction': 'True', 'regressor:__choice__': 'random_forest', 'imputation:strategy': 'mean', 'regressor:random_forest:max_features': 1.0, 'categorical_encoding:one_hot_encoding:minimum_fraction': 0.01, 'regressor:random_forest:min_weight_fraction_leaf': 0.0, 'regressor:random_forest:min_samples_leaf': 1, 'regressor:random_forest:min_samples_split': 2, 'regressor:random_forest:min_impurity_decrease': 0.0, 'regressor:random_forest:max_leaf_nodes': 'None', 'categorical_encoding:__choice__': 'one_hot_encoding', 'regressor:random_forest:criterion': 'mse', 'regressor:random_forest:bootstrap': 'True', 'preprocessor:__choice__': 'no_preprocessing', 'rescaling:__choice__': 'standardize', 'regressor:random_forest:n_estimators': 100},
+dataset_properties={
+  'target_type': 'regression',
+  'signed': False,
+  'multilabel': False,
+  'task': 4,
+  'multiclass': False,
+  'sparse': False})),
+(0.100000, SimpleRegressionPipeline({'regressor:gradient_boosting:learning_rate': 0.18777776709698543, 'regressor:__choice__': 'gradient_boosting', 'imputation:strategy': 'mean', 'regressor:gradient_boosting:alpha': 0.8220969722465876, 'categorical_encoding:__choice__': 'one_hot_encoding', 'preprocessor:select_percentile_regression:percentile': 80.52142991474285, 'regressor:gradient_boosting:min_samples_leaf': 3, 'regressor:gradient_boosting:min_samples_split': 13, 'regressor:gradient_boosting:loss': 'huber', 'regressor:gradient_boosting:max_depth': 5, 'preprocessor:select_percentile_regression:score_func': 'f_regression', 'regressor:gradient_boosting:n_estimators': 238, 'categorical_encoding:one_hot_encoding:use_minimum_fraction': 'True', 'regressor:gradient_boosting:subsample': 0.4873580793322744, 'regressor:gradient_boosting:max_leaf_nodes': 'None', 'categorical_encoding:one_hot_encoding:minimum_fraction': 0.052628505738723214, 'regressor:gradient_boosting:min_impurity_decrease': 0.0, 'regressor:gradient_boosting:min_weight_fraction_leaf': 0.0, 'regressor:gradient_boosting:max_features': 0.4834888133909886, 'preprocessor:__choice__': 'select_percentile_regression', 'rescaling:__choice__': 'standardize'},
+dataset_properties={
+  'target_type': 'regression',
+  'signed': False,
+  'multilabel': False,
+  'task': 4,
+  'multiclass': False,
+  'sparse': False})),
+(0.080000, SimpleRegressionPipeline({'regressor:xgradient_boosting:reg_lambda': 0.002585293114164312, 'regressor:xgradient_boosting:min_child_weight': 0, 'regressor:xgradient_boosting:max_delta_step': 0, 'regressor:__choice__': 'xgradient_boosting', 'imputation:strategy': 'mean', 'regressor:xgradient_boosting:scale_pos_weight': 1, 'categorical_encoding:__choice__': 'no_encoding', 'preprocessor:select_percentile_regression:percentile': 51.3717608630255, 'regressor:xgradient_boosting:reg_alpha': 4.355156925355426e-06, 'regressor:xgradient_boosting:colsample_bytree': 0.838014271891221, 'preprocessor:select_percentile_regression:score_func': 'mutual_info', 'regressor:xgradient_boosting:base_score': 0.5, 'regressor:xgradient_boosting:max_depth': 3, 'rescaling:__choice__': 'normalize', 'regressor:xgradient_boosting:n_estimators': 512, 'regressor:xgradient_boosting:colsample_bylevel': 0.840600922502193, 'regressor:xgradient_boosting:subsample': 0.2590113382518576, 'regressor:xgradient_boosting:gamma': 0, 'preprocessor:__choice__': 'select_percentile_regression', 'regressor:xgradient_boosting:booster': 'gbtree', 'regressor:xgradient_boosting:learning_rate': 0.10096348375810374},
+dataset_properties={
+  'target_type': 'regression',
+  'signed': False,
+  'multilabel': False,
+  'task': 4,
+  'multiclass': False,
+  'sparse': False})),
+(0.080000, SimpleRegressionPipeline({'categorical_encoding:one_hot_encoding:use_minimum_fraction': 'False', 'regressor:__choice__': 'gradient_boosting', 'imputation:strategy': 'median', 'regressor:gradient_boosting:loss': 'huber', 'preprocessor:extra_trees_preproc_for_regression:max_features': 0.6408397026868465, 'regressor:gradient_boosting:n_estimators': 382, 'regressor:gradient_boosting:alpha': 0.9105679155479554, 'preprocessor:extra_trees_preproc_for_regression:min_weight_fraction_leaf': 0.0, 'regressor:gradient_boosting:max_leaf_nodes': 'None', 'regressor:gradient_boosting:min_impurity_decrease': 0.0, 'regressor:gradient_boosting:max_features': 0.6045288661474534, 'preprocessor:extra_trees_preproc_for_regression:max_leaf_nodes': 'None', 'rescaling:__choice__': 'standardize', 'preprocessor:extra_trees_preproc_for_regression:max_depth': 'None', 'regressor:gradient_boosting:learning_rate': 0.29310182214843455, 'regressor:gradient_boosting:subsample': 0.8065069983128872, 'preprocessor:extra_trees_preproc_for_regression:min_samples_split': 20, 'categorical_encoding:__choice__': 'one_hot_encoding', 'preprocessor:extra_trees_preproc_for_regression:min_samples_leaf': 13, 'regressor:gradient_boosting:min_samples_split': 6, 'regressor:gradient_boosting:max_depth': 8, 'regressor:gradient_boosting:min_samples_leaf': 11, 'preprocessor:extra_trees_preproc_for_regression:criterion': 'friedman_mse', 'regressor:gradient_boosting:min_weight_fraction_leaf': 0.0, 'preprocessor:extra_trees_preproc_for_regression:bootstrap': 'False', 'preprocessor:__choice__': 'extra_trees_preproc_for_regression', 'preprocessor:extra_trees_preproc_for_regression:n_estimators': 100},
+dataset_properties={
+  'target_type': 'regression',
+  'signed': False,
+  'multilabel': False,
+  'task': 4,
+  'multiclass': False,
+  'sparse': False})),
+(0.060000, SimpleRegressionPipeline({'preprocessor:nystroem_sampler:kernel': 'sigmoid', 'regressor:liblinear_svr:intercept_scaling': 1, 'regressor:__choice__': 'liblinear_svr', 'imputation:strategy': 'most_frequent', 'regressor:liblinear_svr:dual': 'False', 'categorical_encoding:__choice__': 'no_encoding', 'regressor:liblinear_svr:fit_intercept': 'True', 'preprocessor:__choice__': 'nystroem_sampler', 'preprocessor:nystroem_sampler:coef0': 0.33910429196703373, 'preprocessor:nystroem_sampler:gamma': 0.004137831947644868, 'regressor:liblinear_svr:tol': 5.930897404189289e-05, 'regressor:liblinear_svr:C': 514.2386371789249, 'regressor:liblinear_svr:loss': 'squared_epsilon_insensitive', 'preprocessor:nystroem_sampler:n_components': 242, 'regressor:liblinear_svr:epsilon': 0.0011201981576293735, 'rescaling:__choice__': 'none'},
+dataset_properties={
+  'target_type': 'regression',
+  'signed': False,
+  'multilabel': False,
+  'task': 4,
+  'multiclass': False,
+  'sparse': False})),
+(0.040000, SimpleRegressionPipeline({'regressor:adaboost:n_estimators': 178, 'categorical_encoding:one_hot_encoding:use_minimum_fraction': 'True', 'regressor:__choice__': 'adaboost', 'imputation:strategy': 'median', 'regressor:adaboost:max_depth': 7, 'categorical_encoding:__choice__': 'one_hot_encoding', 'categorical_encoding:one_hot_encoding:minimum_fraction': 0.03853039582263623, 'regressor:adaboost:loss': 'square', 'regressor:adaboost:learning_rate': 0.7962428667659348, 'preprocessor:__choice__': 'no_preprocessing', 'rescaling:__choice__': 'normalize'},
+dataset_properties={
+  'target_type': 'regression',
+  'signed': False,
+  'multilabel': False,
+  'task': 4,
+  'multiclass': False,
+  'sparse': False})),
+]
+R2 score: 0.6540900174177202
